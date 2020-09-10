@@ -1,4 +1,4 @@
-[![License Apache 2.0](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/bond005/impartial_text_cls/blob/master/LICENSE)
+[![License Apache 2.0](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/nsu-ai/few-shot-nlu/blob/master/LICENSE)
 ![Python 3.6, 3.7](https://img.shields.io/badge/python-3.6%20%7C%203.7-green.svg)
 
 # deep_ner
@@ -15,8 +15,8 @@ Installing
 For installation you need to Python 3.6 or later. To install this project on your local machine, you should run the following commands in the Terminal:
 
 ```
-git clone https://github.com/bond005/deep_ner.git
-cd deep_ner
+git clone https://github.com/nsu-ai/few-shot-nlu.git
+cd few-shot-nlu
 pip install .
 ```
 
@@ -279,9 +279,3 @@ License
 
 The **Deep-NER** (`deep-ner`) is Apache 2.0 - licensed.
 
-
-Acknowledgment
---------------
-
-
-The work was supported by National Technology Initiative and PAO Sberbank project ID 0000000007417F630002.
